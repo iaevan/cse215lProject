@@ -1,0 +1,16 @@
+com\mycompany\mavenproject1\Admin.class
+com\mycompany\mavenproject1\AdminViewController.class
+com\mycompany\mavenproject1\App.class
+com\mycompany\mavenproject1\DataStorage.class
+com\mycompany\mavenproject1\Product.class
+com\mycompany\mavenproject1\SalespersonViewController.class
+com\mycompany\mavenproject1\SystemInfo.class
+com\mycompany\mavenproject1\OrderItem.class
+com\mycompany\mavenproject1\Salesperson.class
+com\mycompany\mavenproject1\App$1.class
+com\mycompany\mavenproject1\CustomerViewController.class
+com\mycompany\mavenproject1\User.class
+com\mycompany\mavenproject1\Order.class
+com\mycompany\mavenproject1\Customer.class
+module-info.class
+com\mycompany\mavenproject1\SalesReportViewController.class
